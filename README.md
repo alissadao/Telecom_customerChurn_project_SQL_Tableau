@@ -11,7 +11,7 @@
 - Having, ISNULL, Except, update 
 - Information_schema.columns, Alter table, alter column
 - Len, Nested select clause, nested where clause
-- CTE, Inner join
+- CTE, Inner join, Case when
 
 ###### a. Questions that the project answers: 
 - How many customers joined the company during the last quarter? How many customers churned, stayed?
