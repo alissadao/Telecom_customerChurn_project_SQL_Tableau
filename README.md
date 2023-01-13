@@ -1,5 +1,5 @@
 # Telephone Customer Churn---SQL-Tableau
-***In this project, I will clean, analyze and visualize my dataset using Excel,SQL and Tableau***
+***In this project, I will clean, analyze and visualize my dataset using Excel, SQL and Tableau***
 
 ***Churn data for a fictional Telecommunications company that provides phone and internet services to 7,043 customers in California, and includes details about customer demographics, location, services, and current status.***
 
