@@ -23,5 +23,5 @@
 
 ## 2. About the dataset: 
 - Source: [Maven Analytics Challenge](https://www.mavenanalytics.io/data-playground)
-- Tool: SQL to clean and analyze, PowerBI to visualize
+- Tool: SQL to clean and analyze, Tableau to visualize
 
